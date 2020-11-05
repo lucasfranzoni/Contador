@@ -1,0 +1,32 @@
+.boxPrincipal{
+	-fx-background-color: black;
+	-fx-font-family: Oswald;
+}
+
+.labelPrincipal {
+	-fx-text-fill: white;
+	-fx-font-size: 36px;	
+}
+
+.labelNumeroZero {
+	-fx-text-fill: white;
+	-fx-font-size: 28px;	
+}
+
+.labelNumeroPositivo {
+	-fx-text-fill: green;
+	-fx-font-size: 28px;	
+}
+.labelNumeroNegativo {
+	-fx-text-fill: red;
+	-fx-font-size: 28px;	
+}
+
+.botoes {
+	-fx-background-color: white;
+	-fx-text-fill: black;
+	-fx-font-size: 28px;	
+	-fx-min-width: 60px;
+	-fx-min-height: 60px;
+	-fx-background-radius: 30px;
+}
